@@ -1,5 +1,5 @@
 {
-  "name": "@squareboat/nestjs-localization",
+  "name": "@juanmanavarro/nestjs-localization",
   "version": "0.0.4",
   "description": "The localization package for your NestJS Applications",
   "main": "dist/index.js",
@@ -12,12 +12,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/squareboat/nestjs-localization.git"
+    "url": "https://github.com/juanmanavarro/nestjs-localization.git"
   },
   "bugs": {
-    "url": "https://github.com/squareboat/nestjs-localization/issues"
+    "url": "https://github.com/juanmanavarro/nestjs-localization/issues"
   },
-  "homepage": "https://github.com/squareboat/nestjs-localization",
+  "homepage": "https://github.com/juanmanavarro/nestjs-localization",
   "author": "Rasik Raj <rasikraj01@gmail.com>",
   "private": false,
   "license": "MIT",
