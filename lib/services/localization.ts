@@ -49,7 +49,7 @@ export class LocalizationService {
     }
 
     let text = get(langData, key, null);
-    if (!text || typeof text !== "string") return `ERR::INVALID KEY ==> ${key}`;
+    if (!text || typeof text !== "string") return key;
 
     if (options) {
       for (const k in options) {
